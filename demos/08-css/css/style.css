@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+};
+
+h1 {
+    color: aqua;
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+#p-1 {
+    margin: 30px;
+    background-color: cyan;
+    padding: 10px;
+}
+
+#red-mark {
+    color: red;
+    background-color: beige;
+    padding: 5px;
+}
