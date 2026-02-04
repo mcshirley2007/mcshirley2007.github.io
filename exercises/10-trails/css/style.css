@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#trail-one-text {
+    background-color: rgb(70, 89, 144);
+    color: beige;
+}
+
+#trail-two-text{
+    background-color: cyan;
+    color: rgb(129, 34, 148);
+}
+
+#trail-three-text{
+    background: rgb(114, 64, 81);
+    color: cyan;
+}
+
+#trail-four-text{
+    background-color: antiquewhite;
+    color: black;
+}
+
+#trail-five-text{
+    background-color: rgb(77, 87, 105);
+    color: coral;
+}
+
+#trail-six-text{
+    background-color: rgb(193, 205, 216);
+    color: slateblue;
+}
+#trail-seven-text{
+    background-color: dodgerblue;
+    color: violet;
+}
+
+#trail-eight-text{
+    background-color: rgb(226, 174, 185);
+    color: teal;
+}
+
+#trail-nine-text{
+    background-color: rgb(69, 14, 14);
+    color: red;
+}
+
+#trail-ten-text{
+    background-color: blueviolet;
+    color: rgb(207, 182, 165);
+}
