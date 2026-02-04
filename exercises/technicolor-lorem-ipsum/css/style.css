@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#para-one {
+    color: white;
+    background-color: rgb(88, 100, 136);
+}
+#para-two {
+    color: aqua;
+    background-color: blueviolet;
+}
+#para-three {
+    color: darkblue;
+    background-color: rgb(197, 36, 36);
+}
+#span-one {
+    color: aqua;
+}
+#span-two {
+    color: rgb(158, 227, 164);
+}
+#span-three{
+    color: coral;
+}
+#span-four{
+    color: rgb(234, 186, 12);
+}
+#span-five{
+    color: rgb(241, 232, 241);
+}
+#span-six {
+    color: rgb(75, 155, 17);
+}
