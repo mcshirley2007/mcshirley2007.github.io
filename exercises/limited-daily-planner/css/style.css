@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#morning {
+    background-color: #f9e6b3;
+    border: 3px solid #d97706;
+    margin: 20px;
+    padding: 20px;
+}
+
+#afternoon {
+    background-color: #f4a261;
+    border: 3px solid #d97706;
+    margin: 20px;
+    padding: 20px;
+}
+
+#evening {
+    background-color: #c084fc;
+    border: 3px solid #7c3aed;
+    margin: 20px;
+    padding: 20px;
+}
+
+#morning .completed,
+#afternoon .completed,
+#evening .completed {
+     font-weight: bold;
+    background-color: lightgreen;
+    display: inline-block;
+    margin: top 10px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    border: 2px solid
+}
