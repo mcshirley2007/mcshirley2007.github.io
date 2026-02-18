@@ -4,5 +4,43 @@
 
 body {
     margin: 0px;
-    font-family: sans-serif;
+    font-family:'Poppins' sans-serif;
+    background-color: #f4f4f4
 };
+
+.container {
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section {
+    padding: 60px 20px;
+    text-align: auto;
+}
+
+.section-one {
+    background-color: #e3f2fd;
+}
+
+.section-two {
+    background-color: #fce4ec;
+}
+
+.section-three {
+    background-color: #e8f5e9;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: black;
+    color: white;
+    text-decoration:none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.btn:hover {
+    background-color: #444;
+}
