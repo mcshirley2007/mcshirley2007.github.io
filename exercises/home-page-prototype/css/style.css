@@ -7,7 +7,7 @@
 body {
     font-family: sans-serif;
     background-color: #f5f1e8;
-    color: #3e2f23;
+    color: #590867c5;
 }
 
 .navbar {
@@ -15,7 +15,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 60px;
-    background-color: #8c5a3c;
+    background-color: #c492c6;
 }
 
 .logo {
@@ -63,12 +63,12 @@ body {
 }
 
 .primary-btn {
-    background-color: #8c5a3c;
+    background-color: #6e16ac;
     color: #ffffff;
 }
 
 .secondary-btn {
-    background-color: #3e2f23;
+    background-color: #2e114f;
     color: #ffffff;
 }
 
