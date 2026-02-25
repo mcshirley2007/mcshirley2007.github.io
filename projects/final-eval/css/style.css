@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace;
+    background-color: #f4f4f4;
+    color: #222;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0;
+    padding: 40px 20px;
+    text-align: center;
+    background: white;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+h3 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.date {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.intro {
+    margin-bottom: 50px;
+}
+
+.lead {
+    margin-bottom: 50px;
+}
+
+.intro p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.teams {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.team {
+    width: 250px;
+    text-align: center;
+}
+
+.team img {
+    width: 220px;
+    height: 180px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+.team h4 {
+    font-size: 20px;
+}
+.vs {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.location p {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.rsvp {
+    margin-bottom: 40px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 28px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 6px;
+    transition: 0.3s ease;
+}
+
+.yes {
+    background-color: #28a745;
+    color: white;
+}
+
+.no {
+    background-color: #dc3545;
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.85;
+}
